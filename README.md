@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank">
+    <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
       <img src="https://github.com/JavaScript-Mastery-Pro/medicare-dev/assets/151519281/160a9367-29e8-4e63-ae78-29476b04bff3" alt="Project Banner">
     </a>
   <br />
@@ -35,7 +35,7 @@ This repository contains the code corresponding to an in-depth tutorial availabl
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://www.youtube.com/watch?v=FkowOdMjvYo" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -91,8 +91,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/carepulse.git
-cd carepulse
+git clone https://github.com/adrianhajdin/healthcare.git
+cd healthcare
 ```
 
 **Installation**
@@ -110,12 +110,12 @@ Create a new file named `.env.local` in the root of your project and add the fol
 ```env
 #APPWRITE
 NEXT_PUBLIC_ENDPOINT=https://cloud.appwrite.io/v1
-PROJECT_ID=6638e4900002aa9f11a5
-API_KEY=c9b33ebc7d12a6aa8be606c2bc4f773689834cc723934a27e116184d47d0aeb1fecde9a74ca98398e0b055aaf64594144da64d376962538f7b9712c91f3b990ffe3dc46982dd9726773bf47c2e9065bef27cf9ed9f920a22ac5ea09c4a3e91d4f499e5e589eda703677e436a7a15c277c47d30bbe1ee6c49018fa8d082d1d497
-DATABASE_ID=6639c327002c421aa83d
-PATIENT_COLLECTION_ID=6639c350002ab305a50a
-APPOINTMENT_COLLECTION_ID=6639c76f000d308f55b9
-NEXT_PUBLIC_BUCKET_ID=663a1a990021d095679e
+PROJECT_ID=
+API_KEY=
+DATABASE_ID=
+PATIENT_COLLECTION_ID=
+APPOINTMENT_COLLECTION_ID=
+NEXT_PUBLIC_BUCKET_ID=
 
 NEXT_PUBLIC_ADMIN_PASSKEY=111111
 ```
