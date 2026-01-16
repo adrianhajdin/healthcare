@@ -1016,5 +1016,14 @@ And if you're hungry for more than just a course and want to understand how we l
 <a href="https://www.jsmastery.pro/masterclass" target="_blank">
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
+## ⚠️ Medical Disclaimer:-
 
+This project is a *software application tutorial* for educational purposes only.  
+The application facilitates appointment scheduling and management but does *not provide medical advice, diagnosis, or treatment*.
+
+All medical decisions should be made in consultation with *qualified healthcare professionals*.  
+This software is a scheduling tool and should not be used as a substitute for professional medical advice.
+
+The contributors and maintainers are *not responsible* for any medical decisions  
+made using this software or for the quality of healthcare services accessed through it.
 #
