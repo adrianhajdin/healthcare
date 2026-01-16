@@ -1016,5 +1016,14 @@ And if you're hungry for more than just a course and want to understand how we l
 <a href="https://www.jsmastery.pro/masterclass" target="_blank">
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
+## ⚠️ Medical Disclaimer
 
+This project is intended for *educational and informational purposes only*.  
+It does *not provide medical advice, diagnosis, or treatment*.
+
+Always consult a *qualified healthcare professional or physician* before making
+any decisions related to health, supplements, medications, or lifestyle changes.
+
+The contributors and maintainers of this project are *not responsible*
+for misuse or misinterpretation of any health-related information provided here.
 #
